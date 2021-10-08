@@ -23,6 +23,4 @@
 
 ----------------------------------------------------------------------------------
 
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaineMoreira)](https://github.com/ElaineMoreira/github-readme-stats)
-
 [![ElaineMoreira GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaineMoreira)](https://github.com/ElaineMoreira/github-readme-stats)
