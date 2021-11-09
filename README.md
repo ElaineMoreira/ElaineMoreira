@@ -36,7 +36,7 @@
  
 <div align="center">
  <a href="https://git.io/streak-stats">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElaineMoreira" alt="ElaineMoreira" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElaineMoreira&theme=radical" />
  </a>
 </div>
  
