@@ -27,8 +27,8 @@
 
 <div align="center">
   <a href="https://github.com/ElaineMoreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElaineMoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElaineMoreira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElaineMoreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElaineMoreira&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
  
@@ -56,8 +56,6 @@
  <img align="center" alt="Elaine-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Elaine-mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="Elaine-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
- 
- 
  <img align="center" alt="Elaine-trello" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
  <img align="center" alt="Elaine-figma" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
  <img align="center" alt="Elaine-photoshop" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
