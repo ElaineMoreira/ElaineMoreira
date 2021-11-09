@@ -1,5 +1,5 @@
 ## Hello World 🌎!...I'm Elaine Moreira, web development student
-<img height="130px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
+<img height="300px" align="right" src="https://github.com/ElaineMoreira/ElaineMoreira/blob/main/images/gif1.png" />
 
 <div>
  
