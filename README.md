@@ -43,7 +43,8 @@
  ### Technologies used by me:
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Elaine-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Elaine-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Elaine-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Elaine-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Elaine-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elaine-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -55,10 +56,12 @@
  <img align="center" alt="Elaine-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Elaine-mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="Elaine-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
- <img align="center" alt="Elaine-trello" height="30" width="100" src="https://img.shields.io/badge/trello-%23323330.svg?style=for-the-badge&logo=trello&logoColor=pink">
- <img align="center" alt="Elaine-figma" height="30" width="100" src="https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=red">
- <img align="center" alt="Elaine-Photoshop" height="30" width="100" src="https://img.shields.io/badge/Photoshop-%23323330.svg?style=for-the-badge&logo=Photoshop&logoColor=red">
- <img align="center" alt="Elaine-adobeXD" height="30" width="100" src="https://img.shields.io/badge/adobeXD-%23323330.svg?style=for-the-badge&logo=adobeXD&logoColor=pink">
+ 
+ 
+ <img align="center" alt="Elaine-trello" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+ <img align="center" alt="Elaine-figma" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+ <img align="center" alt="Elaine-photoshop" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+ <img align="center" alt="Elaine-adobeXD" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
  <img align="center" alt="Elaine-Autodesk Maya" height="30" width="100" src="https://img.shields.io/badge/Maya-%23323330.svg?style=for-the-badge&logo=Maya&logoColor=green">
  <img align="center" alt="Elaine-Adobe Illustrator" height="30" width="150" src="https://img.shields.io/badge/AdobeIllustrator-%23323330.svg?style=for-the-badge&logo=AdobeIllustrator&logoColor=blue">
  <img align="center" alt="Elaine-coreldraw" height="30" width="150" src="https://img.shields.io/badge/coreldraw-%23323330.svg?style=for-the-badge&logo=coreldraw&logoColor=blue">
