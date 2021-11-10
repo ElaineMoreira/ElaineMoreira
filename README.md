@@ -93,8 +93,8 @@
  ## Contact
  
  <div> 
+  <a href="https://api.whatsapp.com/send?phone=555531986104739&text=Ol%C3%A1!%20Meu%20nome%20%C3%A9%20Elaine%20Moreira%20e%20obrigado%20por%20entrar%20em%20contato%20comigo!%20Logo%20irei%20te%20responder!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" target="_blank"></a>
   <a href="https://instagram.com/elaine_f_moreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:elainefelipemoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elaine-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
