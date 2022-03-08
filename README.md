@@ -3,7 +3,7 @@
 
 <div>
  
-  <li>:computer: I'm Front-End!</li>
+  <li>:computer: I'm FullStack Developer!</li>
 
   <li>:house_with_garden: I’m from Belo Horizonte-MG/Brazil.</li>
 
